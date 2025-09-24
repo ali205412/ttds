@@ -1,0 +1,8 @@
+{
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "mobilePullAction": "ink:create-handwritten-section",
+  "promptDelete": false
+}

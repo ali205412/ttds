@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "37939edb8b49eb66",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea5820a787bb6432",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "905ee060c9c9875b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73df94a622581100",
+    "type": "split",
+    "children": [
+      {
+        "id": "aff4f80a15804276",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "204596b53be7946b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c91dbf06ca83e185",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ac2a7f090aaeec9f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 383.5086555480957
+  },
+  "right": {
+    "id": "f8b440de53ce1d70",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea286d8592945046",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81d09fd9f2e965df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lectures/07 Interest Rates and Present Value Analysis.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 07 Interest Rates and Present Value Analysis"
+            }
+          },
+          {
+            "id": "483f52f76cc88dbf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lectures/07 Interest Rates and Present Value Analysis.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 07 Interest Rates and Present Value Analysis"
+            }
+          },
+          {
+            "id": "64e0b02e0af0f646",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e847676db84030d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lectures/07 Interest Rates and Present Value Analysis.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 07 Interest Rates and Present Value Analysis"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "daily-notes:Open today's daily note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": true,
+      "github-sync:Sync with Remote": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "905ee060c9c9875b",
+  "lastOpenFiles": [
+    "Lecture Notes/01 Introduction to MLP and Single Layer Networks.md",
+    "Textbook Readings/01 Readings.md",
+    "Textbook Readings/Deep Learning Book - Required Readings for Lecture 01.md",
+    "deep_learning_book_content.md",
+    "Textbook Readings",
+    "Lectures/01 Introduction to MLP and Single Layer Networks.pdf",
+    "Chapter_01_Introduction.pdf",
+    "Chapter_04_Numerical_Computation.pdf",
+    "Chapter_05_Machine_Learning_Basics.pdf",
+    "mlpractical/Textbook Readings/ml.html",
+    "mlpractical/Textbook Readings/numerical.html",
+    "mlpractical/Textbook Readings/intro.html",
+    "mlpractical/Textbook Readings",
+    "mlpractical/mlp.egg-info/top_level.txt",
+    "mlpractical/notes/figures/putty5.png",
+    "mlpractical/notes/figures/putty4.png",
+    "mlpractical/notes/figures/putty3.png",
+    "mlpractical/notes/figures/putty2.png",
+    "mlpractical/notes/figures/putty1.png",
+    "mlpractical/notes/remote-working-guide.md",
+    "mlpractical/notes/getting-started-in-a-lab.md",
+    "mlpractical/notes/environment-set-up.md",
+    "mlpractical/notebooks/res/singleLayerNetWtsEqns-1.png",
+    "mlpractical/notebooks/res/singleLayerNetWts-1.png",
+    "mlpractical/notebooks/res/singleLayerNetPredict.png",
+    "mlpractical/notebooks/res/singleLayerNetBP-1.png",
+    "mlpractical/notebooks/res/jupyter-notebook-interface.png",
+    "mlpractical/README.md",
+    "Lecture Notes/Git Guide.md",
+    "Lectures/01 Introduction to MLP and Single Layer Networks.md",
+    "Quiz/00 Quiz.md",
+    "Practice Exams/04 Practice Exam.md",
+    "Homework/07 Answers.md",
+    "Lecture Notes/10 The Black-Scholes formula.md",
+    "Lecture Notes/05 Normal Random Variables.md",
+    "Lecture Notes/02 Random Variables & Expectation.md",
+    "MATH424.md",
+    "Textbook Notes/06 The Arbitrage Theorem.md",
+    "Textbook Notes/07 The Black-Scholes Formula.md",
+    "Practice Exams/03 Practice Exam.md",
+    "Practice Exams/02 Practice Exam.md",
+    "Homework/06 Answers.md",
+    "Homework/05 Answers.md",
+    "Lecture Notes/08  Pricing Contracts via Arbitrage.md",
+    "Lecture Notes/06 Brownian Motion.md",
+    "Textbook Notes/01 Probability.md",
+    "Untitled.canvas"
+  ]
+}

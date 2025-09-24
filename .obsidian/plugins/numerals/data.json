@@ -1,0 +1,22 @@
+{
+  "resultSeparator": " → ",
+  "layoutStyle": "AnswerInline",
+  "alternateRowColor": true,
+  "defaultRenderStyle": "TeX",
+  "hideLinesWithoutMarkupWhenEmitting": true,
+  "hideEmitterMarkupInInput": true,
+  "dollarSymbolCurrency": {
+    "symbol": "$",
+    "currency": "USD"
+  },
+  "yenSymbolCurrency": {
+    "symbol": "¥",
+    "currency": "JPY"
+  },
+  "provideSuggestions": true,
+  "suggestionsIncludeMathjsSymbols": false,
+  "numberFormat": "System",
+  "forceProcessAllFrontmatter": false,
+  "customCurrencySymbol": null,
+  "enableGreekAutoComplete": true
+}
