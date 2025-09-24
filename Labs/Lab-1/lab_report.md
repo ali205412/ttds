@@ -1,23 +1,3 @@
-# TTDS Labs Summary Report
-
-## Lab 0: Programming Skills Assessment
-
-### Task Completed
-- **Objective**: Count occurrences of specific words ("lord", "to", "36") in Bible text
-- **Implementation**: Python script with regex-based word extraction
-- **Results**:
-  - 'lord': 7,964 occurrences
-  - 'to': 13,680 occurrences
-  - '36': 474 occurrences
-  - Total words analyzed: 857,535
-  - Target words percentage: 2.58%
-
-### Files Created
-- `lab0_solution.py`: Complete word counting implementation
-- `lab0_instructions.md`: Lab requirements documentation
-
----
-
 ## Lab 1: Text Preprocessing and Laws Analysis
 
 ### Tasks Completed
@@ -122,21 +102,3 @@ def preprocess_text(text):
 | Quran      | 72,975       | 4,264         | 0.058       | Moderate       | High (46.1% vs 30.1%) |
 | Wikipedia  | 726,170      | 62,712        | 0.086       | Good           | Very High (59.8% vs 30.1%) |
 
-## Conclusions
-
-1. **Text Laws Verification**: All three text types demonstrate the fundamental laws of text:
-   - Zipf's Law is approximately followed, especially for high-frequency terms
-   - Vocabulary growth follows sub-linear patterns consistent with Heap's Law
-   - Benford's Law shows interesting deviations that reflect text type characteristics
-
-2. **Collection Characteristics**:
-   - Religious texts (Bible, Quran) show similar patterns with specialized vocabulary
-   - Wikipedia demonstrates highest linguistic diversity and technical vocabulary
-   - All collections exhibit power-law distributions in word frequencies
-
-3. **Preprocessing Effectiveness**: The implemented pipeline successfully:
-   - Normalized text variations through case folding and stemming
-   - Removed noise through stop word filtering and tokenization
-   - Maintained core semantic content for meaningful analysis
-
-This analysis demonstrates fundamental principles of computational linguistics and information retrieval, showing how different text genres exhibit both universal linguistic laws and unique characteristics.
