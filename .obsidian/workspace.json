@@ -11,16 +11,14 @@
             "id": "905ee060c9c9875b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Lectures/03 Laws of Text.pdf",
-                "page": 1,
-                "left": -9,
-                "top": 693,
-                "zoom": 1.6202579107895567
+                "file": "Lecture Notes/04 - Preprocessing.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "03 Laws of Text"
+              "icon": "lucide-file",
+              "title": "04 - Preprocessing"
             }
           }
         ]
@@ -174,6 +172,7 @@
   },
   "active": "905ee060c9c9875b",
   "lastOpenFiles": [
+    "Lectures/03 Laws of Text.pdf",
     "Lecture Notes/03 - Laws of Text.md",
     "Labs/Lab-1/lab_report.md",
     "Labs/Lab-1/lab1_instructions.md",
@@ -219,7 +218,6 @@
     "Lecture Notes/02 Random Variables & Expectation.md",
     "MATH424.md",
     "Textbook Notes/06 The Arbitrage Theorem.md",
-    "Textbook Notes/07 The Black-Scholes Formula.md",
     "Untitled.canvas"
   ]
 }
