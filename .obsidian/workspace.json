@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/04 - Preprocessing.md",
+                "file": "Labs/Lab-1/lab1_instructions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 - Preprocessing"
+              "title": "lab1_instructions"
             }
           }
         ]
@@ -170,27 +170,29 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "204596b53be7946b",
+  "active": "905ee060c9c9875b",
   "lastOpenFiles": [
+    "Labs/Lab-1/quran.txt",
+    "Labs/Lab-1/pg10.txt",
+    "Labs/Lab-0/lab0_instructions.md",
+    "Labs/Lab-1/lab1_instructions.md",
+    "Labs/Lab-1/lab1_instructions.md.tmp.29719.1758705579804",
+    "Labs/Lab-0/lab0_solution.py",
+    "Labs/Lab-0/lab0_solution.py.tmp.29719.1758705402207",
+    "Lecture Notes/04 - Preprocessing.md",
+    "Labs/Lab-0/lab0_instructions.md.tmp.29719.1758705354607",
     "Labs/Lab-0/bible.txt",
     "Labs/Lab-1",
     "Labs/Lab-0",
     "Labs",
     "Lecture Notes/02 - Definitions.md",
-    "Lecture Notes/04 - Preprocessing.md",
     "Lecture Notes/04 - Preprocessing.md.tmp.29719.1758704878295",
     "Lecture Notes/03 - Laws of Text.md",
-    "Lecture Notes/03 - Laws of Text.md.tmp.29719.1758704664268",
     "Lecture Notes/01 - Introduction.md",
-    "Lecture Notes/02 - Definitions.md.tmp.29719.1758704439831",
-    "Lecture Notes/01 - Introduction.md.tmp.29719.1758704290997",
-    "Lecture Notes",
     "Lecture Notes/01 Introduction to MLP and Single Layer Networks.md",
     "Textbook Readings/01 Readings.md",
     "Textbook Readings/Deep Learning Book - Required Readings for Lecture 01.md",
     "deep_learning_book_content.md",
-    "Textbook Readings",
-    "Lectures/01 Introduction to MLP and Single Layer Networks.pdf",
     "mlpractical/notes/figures/putty5.png",
     "mlpractical/notes/figures/putty4.png",
     "mlpractical/notes/figures/putty3.png",
@@ -216,8 +218,6 @@
     "MATH424.md",
     "Textbook Notes/06 The Arbitrage Theorem.md",
     "Textbook Notes/07 The Black-Scholes Formula.md",
-    "Practice Exams/03 Practice Exam.md",
-    "Practice Exams/02 Practice Exam.md",
     "Untitled.canvas"
   ]
 }
