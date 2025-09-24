@@ -315,7 +315,7 @@ V(20×10^9) = 0.25 × (20×10^9)^0.7 ≅ 4 million unique terms
 
 ### Phenomenon Description
 
-**Core Observation:** Words exhibit "contagious" behavior in text - if a word appears once in a document, it is significantly more likely to appear again nearby than would be expected by chance.
+**Core Observation:** Words exhibit "contagious" behavior in text - if a word appears pagesonce in a document, it is significantly more likely to appear again nearby than would be expected by chance.
 
 ### Conceptual Understanding
 

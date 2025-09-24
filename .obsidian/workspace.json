@@ -11,14 +11,16 @@
             "id": "905ee060c9c9875b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Lecture Notes/03 - Laws of Text.md",
-                "mode": "source",
-                "source": false
+                "file": "Lectures/03 Laws of Text.pdf",
+                "page": 1,
+                "left": -9,
+                "top": 693,
+                "zoom": 1.6202579107895567
               },
-              "icon": "lucide-file",
-              "title": "03 - Laws of Text"
+              "icon": "lucide-file-text",
+              "title": "03 Laws of Text"
             }
           }
         ]
@@ -172,10 +174,10 @@
   },
   "active": "905ee060c9c9875b",
   "lastOpenFiles": [
+    "Lecture Notes/03 - Laws of Text.md",
     "Labs/Lab-1/lab_report.md",
     "Labs/Lab-1/lab1_instructions.md",
     "Labs/Lab-0/lab0_instructions.md",
-    "Lecture Notes/03 - Laws of Text.md",
     "Lecture Notes/02 - Definitions.md",
     "Lecture Notes/01 - Introduction.md",
     "Labs/lab_summary_report.md.tmp.29719.1758706032180",
